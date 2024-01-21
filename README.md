@@ -7,4 +7,4 @@ Neste diretório podem analisar os fluxogramas dos PHPs, o código do HTML e PHP
 
 
 Espero que tirem proveito do que está neste dirétorio, quer seja para avaliação deste projeto ou de ajuda para um projeto vosso.
-Para mais informações sobre o projeto: www.tgei21.epvr4.net
+Para mais informações sobre o projeto: https://tgei21.epvr4.net/
